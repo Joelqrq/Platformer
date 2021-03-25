@@ -1,5 +1,5 @@
-# Skyland Dash
-This game project was developed to participate in [Weekly Game Jam - Week 130](https://joelquey.itch.io/skyland-dash).
+# [Skyland Dash](https://joelquey.itch.io/skyland-dash)
+This game project was developed to participate in [Weekly Game Jam - Week 130](https://itch.io/jam/weekly-game-jam-130/rate/547162).
 
 # Description
 There’s a scrapyard up in the clouds, held there by huge, stone wheels made of magic. Sometimes all the thrash lines up perfectly, forming pathways. Luckily, your favorite pastime happens to be racing these dangerous routes by foot.
